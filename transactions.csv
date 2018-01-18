@@ -1,0 +1,5 @@
+Transaction_ID,Product_ID,UserID,Price,Product_Description
+1,1,1,10,as
+2,2,1,10,as
+3,1,2,20,as
+4,3,1,10,as
